@@ -1,4 +1,4 @@
-# Awesome WordPress Headless [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome WordPress Headless [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1031094064.svg)](https://doi.org/10.5281/zenodo.19682096)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -96,10 +96,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Lists
 
-- [Awesome WordPress](https://github.com/awesomelistsio/awesome-wordpress)
-- [Awesome JAMstack](https://github.com/awesomelistsio/awesome-jamstack)
-- [Awesome Headless CMS](https://github.com/awesomelistsio/awesome-headless-cms)
-- [Awesome Static Website Services](https://github.com/awesomelistsio/awesome-static-website-services)
+- [Awesome WordPress](https://github.com/brandonhimpfen/awesome-wordpress)
+- [Awesome JAMstack](https://github.com/brandonhimpfen/awesome-jamstack)
+- [Awesome Headless CMS](https://github.com/brandonhimpfen/awesome-headless-cms)
+- [Awesome Static Website Services](https://github.com/brandonhimpfen/awesome-static-website-services)
   
 ## Contribute
 
